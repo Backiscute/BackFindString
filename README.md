@@ -9,9 +9,3 @@ Girl
 <div align="center">
   <h1>Bye cutie 😘</h1>
 </div>
-
-
-<div align="center">
-  <h1>Storm Backend Bot</h1>
-  <p>Credit <a href="https://twitter.com/BackFindString_">Back</a> </p>
-</div>
