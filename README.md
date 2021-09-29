@@ -4,7 +4,7 @@
 
 - Admin in https://discord.gg/dev
 - Pyhton and NodeJS for now
-- Don't ask for roles i won't give.</back> </p>
+- Don't ask for roles i won't give.</p>
 </div>
 <div align="center">
   <h1>Bye cutie 😘</h1>
