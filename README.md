@@ -7,12 +7,10 @@
 
 - 📫 How to reach me **back@backthe.dev**
 
-- 📄 Know about my experiences [I have a lot of experience making backends and bots.](I have a lot of experience making backends and bots.)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/backiscute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="backiscute" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/backiscute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="backiscute" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20198545/backiscute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="backiscute" height="30" width="40" /></a>
 <a href="https://discord.gg/stumble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="stumble" height="30" width="40" /></a>
 </p>
 
