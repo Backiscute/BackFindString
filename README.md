@@ -3,8 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/backiscute" target="blank"><img src="https://img.shields.io/twitter/follow/backiscute?logo=twitter&style=for-the-badge" alt="backiscute" /></a> </p>
 
-- 🔭 I’m currently working on [IStumbledTooHardGuys](https://discord.gg/stumble)
-
+- 🔭 I’m currently working on [IStumbledTooHardGuys](https://discord.gg/stumble "Link to ISTHG's server")
+- 🖥️ My website [backthe.dev](https://backthe.dev "Link to my website")
 - 📫 How to reach me **back@backthe.dev**
 
 <h3 align="left">Connect with me:</h3>
