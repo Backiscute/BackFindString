@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Back</h1>
-<h3 align="center">A mostly backend developer from spain.</h3>
+<h3 align="center">A full stack developer from spain.</h3>
 
 <p align="left"> <a href="https://twitter.com/backiscute" target="blank"><img src="https://img.shields.io/twitter/follow/Backiscute?logo=twitter&style=for-the-badge" alt="backiscute" /></a> </p>
 
